@@ -1,3 +1,9 @@
 Hello
 XYZ
+<<<<<<< HEAD
 ABC
+=======
+ABC
+XYZ2
+ABC2
+>>>>>>> 0ad98de... Secondch
