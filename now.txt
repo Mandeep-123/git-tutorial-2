@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Yepp
+=======
+Yepp
+THE
+ASB
+>>>>>>> 08dd577... Commit1AB
