@@ -1,9 +1,13 @@
 Hello
 XYZ
 <<<<<<< HEAD
+<<<<<<< HEAD
 ABC
 =======
 ABC
 XYZ2
 ABC2
 >>>>>>> 0ad98de... Secondch
+=======
+ABC
+>>>>>>> 6bec693... chsecond
