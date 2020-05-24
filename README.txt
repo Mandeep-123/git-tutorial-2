@@ -13,9 +13,12 @@ XYZ
 XYZ
 XYZ1
 >>>>>>> 923413d... XYZ1B
+<<<<<<< HEAD
 =======
 git tutorial
 Hello, I'm Shivam
 test124
 CHECKING
 >>>>>>> d3267f96ed8357f5a20ed30089fd73d21ff8cf54
+=======
+>>>>>>> 60d84fc... Conflict2
