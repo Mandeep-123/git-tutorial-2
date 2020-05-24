@@ -2,12 +2,18 @@ Hello
 XYZ
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 376743b... Conflictre
 ABC
 =======
 ABC
 XYZ2
 ABC2
 >>>>>>> 0ad98de... Secondch
+<<<<<<< HEAD
 =======
 ABC
 >>>>>>> 6bec693... chsecond
+=======
+>>>>>>> 376743b... Conflictre
